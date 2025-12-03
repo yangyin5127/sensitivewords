@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/feiin/sensitivewords"
+	"github.com/yangyin5127/sensitivewords"
 )
 
 var sensitive *sensitivewords.SensitiveWords = sensitivewords.New()

@@ -1,3 +1,3 @@
-module github.com/feiin/sensitivewords
+module github.com/yangyin5127/sensitivewords
 
-go 1.12
+go 1.24
