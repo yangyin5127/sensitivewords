@@ -11,7 +11,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/feiin/sensitivewords"
+	"github.com/yangyin5127/sensitivewords"
 )
 
 func main() {
